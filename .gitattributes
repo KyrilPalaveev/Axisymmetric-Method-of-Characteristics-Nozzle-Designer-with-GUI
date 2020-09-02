@@ -1,2 +1,3 @@
+*.sol linguist-language=Python
 *.HTML linguist-detectable=false
 *.js linguist-detectable=true
