@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Python37\\Scripts",
+  "password": false,
+  "pid": 23456,
+  "port": 8888,
+  "secure": false,
+  "token": "408b3d8fbf44f0fc60d589550e3c23304ea4f8a091600af3",
+  "url": "http://localhost:8888/"
+}
