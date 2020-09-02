@@ -1,4 +1,4 @@
-# Axisymmetric-Method-of-Characteristics-Nozzle-Designer-with-GUI - .EXE
+# Axisymmetric Method of Characteristics Nozzle Designer with GUI - .EXE
 
 ### HOW TO SETUP
 
