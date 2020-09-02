@@ -1,6 +1,6 @@
 # Axisymmetric-Method-of-Characteristics-Nozzle-Designer-with-GUI
 
-###HOW TO USE###
+###HOW TO USE
 
 1. Download the .zip file
 
@@ -10,4 +10,4 @@
 
 4. Enjoy!
 
-###END###
+
