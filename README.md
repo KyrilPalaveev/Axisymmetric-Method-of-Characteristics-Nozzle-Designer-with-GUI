@@ -1,6 +1,6 @@
 # Axisymmetric Method of Characteristics Nozzle Designer with GUI - .EXE
 
-### HOW TO SETUP
+### HOW TO SETUP Win32/64
 
 1. Download the .zip file
 
@@ -11,3 +11,12 @@
 4. Enjoy!
 
 
+### HOW TO SETUP Python3.7
+
+1. Download the .zip file.
+
+2. Unzip the three files into the "Scripts" folder in the Python directory.
+
+3. Run the .py file.
+
+4. Enjoy!
