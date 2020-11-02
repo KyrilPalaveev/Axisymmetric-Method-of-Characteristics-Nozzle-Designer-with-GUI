@@ -36,5 +36,5 @@
 
 ### POSSIBLE KNOWN ISSUES
 
-1. If the "calculate" button is unavailable due to a failure of the " wrong input detection system", restart the app. 
+1. If the "calculate" button is unavailable due to a failure of the " wrong input detection system", restart the app. (occurrence: rare)
 
