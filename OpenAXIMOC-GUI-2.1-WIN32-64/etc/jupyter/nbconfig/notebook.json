@@ -1,0 +1,28 @@
+{
+  "load_extensions": {
+    "nbextensions_configurator/config_menu/main": true,
+    "contrib_nbextensions_help_item/main": true,
+    "python-markdown/main": true,
+    "spellchecker/main": true,
+    "equation-numbering/main": true,
+    "latex_envs/latex_envs": true,
+    "zenmode/main": false,
+    "printview/main": true,
+    "codefolding/main": true,
+    "code_prettify/code_prettify": false,
+    "code_font_size/code_font_size": true,
+    "livemdpreview/livemdpreview": true,
+    "autosavetime/main": true,
+    "ruler/main": true,
+    "toc2/main": true,
+    "hide_input/main": true,
+    "hide_input_all/main": true,
+    "splitcell/splitcell": true
+  },
+  "Cell": {
+    "cm_config": {
+      "lineNumbers": true
+    }
+  },
+  "autosavetime_starting_interval": "3"
+}
