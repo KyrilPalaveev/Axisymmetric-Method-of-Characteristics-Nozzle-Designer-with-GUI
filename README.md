@@ -20,3 +20,21 @@
 3. Run the .py file.
 
 4. Enjoy!
+
+
+### HOW TO USE
+
+1. Insert inputs in all available fields.
+
+2. Press Calculate.
+
+3. Once complete a message will pop-up saying that data is exported.
+
+4. Find the Excel file named "export1.xlsx" in the folder where the application is.
+
+5. Open it to retrieve ALL data from calculation (e.g. coordinates, temperatures, pressures, etc.)
+
+### POSSIBLE KNOWN ISSUES
+
+1. If the "calculate" button is unavailable due to a failure of the " wrong input detection system", restart the app. 
+
