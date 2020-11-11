@@ -24,7 +24,7 @@
 
 ### HOW TO USE
 
-1. Insert inputs in all available fields (review the paper for more info - see link in bio).
+1. Insert inputs in all available fields (review the paper for more info).
 
 2. Press Calculate.
 
