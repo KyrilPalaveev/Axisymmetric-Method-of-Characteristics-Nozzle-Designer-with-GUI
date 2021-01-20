@@ -1,4 +1,5 @@
-# Axisymmetric Method of Characteristics Nozzle Designer with GUI - .EXE \n Developed by Kyril Palaveev
+# Axisymmetric Method of Characteristics Nozzle Designer with GUI - .EXE
+  Developed by Kyril Palaveev
 
 ### HOW TO SETUP Win32/64
 
